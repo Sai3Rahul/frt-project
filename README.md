@@ -1,5 +1,5 @@
 # Future ready talent project by Sai Rahul
-This is my internship project,here i created a fashion store web site named FashionStore that helps the customer to find good products easily and in a low price.
+This is my internship project,here i created a web site named FashionStore that helps the customer to find good products easily and in a low price.
 
 ## My website link:
 
