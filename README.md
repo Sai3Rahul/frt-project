@@ -1,7 +1,7 @@
 # Future ready talent project by Sai Rahul
 This is my internship project,here i created a web site named FashionStore that helps the customer to find good products easily and in a low price.
 
-## My website link:
+## My website link: https://witty-pond-0fd48ec10.1.azurestaticapps.net/
 
 
 ## Home Page
@@ -28,6 +28,7 @@ This is my internship project,here i created a web site named FashionStore that 
 
 
 ## Azure portal screen shot
+![Screenshot 2022-05-23 210246](https://user-images.githubusercontent.com/104320194/169855202-df463bd8-c7e1-40d0-a477-95f751e64aba.png)
 
 
 
